@@ -1,1 +1,2 @@
-"fontawesome-free-5.15.1-web" is required
+- "fontawesome-free-5.15.1-web" IS REQUIRED
+- Preview is available in preview.png file
