@@ -119,26 +119,26 @@ html {
 }
 
 .name span.job {
-    font-size: 25px;
+    font-size: 22px;
     display: inline-block;
     margin-top: 4px;
     opacity: 0.8;
 }
 
 .contact {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .contact .phone .contact-icon,
 .contact .email .contact-icon,
-.contact .address .contact-icon{
+.contact .address .contact-icon {
     width: 5%;
     float: left;
 }
 
 .contact .phone .contact-content,
 .contact .email .contact-content,
-.contact .address .contact-content{
+.contact .address .contact-content {
     width: 90%;
     float: left;
 }
@@ -146,13 +146,16 @@ html {
 .contact .phone i,
 .contact .email i,
 .contact .address i {
-    color: #0484b5;
+    color: #479bfd;
+    line-height: 25px;
+    font-size: 17px;
 }
 
 .contact .phone span,
 .contact .email span,
 .contact .address span {
-    color: #70A1D7;
+    color: #479bfd;
+    line-height: 25px;
 }
 
 .box-item-right .title h3 {
@@ -186,7 +189,7 @@ html {
     color: #479bfd;
 }
 
-.box-item-right .box-item-right-content ul li .content-right ul li{
+.box-item-right .box-item-right-content ul li .content-right ul li {
     list-style-type: "🌺 ";
     list-style-position: outside;
 }
